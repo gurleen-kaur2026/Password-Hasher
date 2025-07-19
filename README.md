@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 Secure Hash Generator
 
 A modern, beautiful Streamlit application for generating SHA-256 hashes and managing passwords securely. Built with Python and Streamlit, this tool provides an enterprise-grade interface for cryptographic operations with a stunning UI.
@@ -182,3 +183,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Built with ❤️ using Streamlit and SHA-256 hashing**
 
 🔐 Secure • 🚀 Fast • 🎨 Beautiful • ☁️ Cloud-Ready 
+=======
+# Password-Hasher
+>>>>>>> 6665f17eadfaa9ea127a1595c50261d4633fb383
